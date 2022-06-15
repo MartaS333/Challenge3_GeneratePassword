@@ -1,7 +1,7 @@
 # Challenge-One Generating Random Password
 
 **Summary:**
-Website that generates a random passowrd for the user. The password must be between 8 to 128 characters long and include numbers, special characters, uppercase letters and lowercase letters.
+Website that generates a random password for the user. The password must be between 8 to 128 characters long and include numbers, special characters, uppercase letters and lowercase letters.
 
 **Criteria:**
 
