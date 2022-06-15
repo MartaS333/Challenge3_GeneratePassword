@@ -1,5 +1,8 @@
 # Challenge-One Generating Random Password
 
+**Summary:**
+Website that generates a random passowrd for the user. The password must be between 8 to 128 characters long and include numbers, special characters, uppercase letters and lowercase letters.
+
 **Criteria:**
 
 * GIVEN I need a new, secure password
@@ -22,4 +25,5 @@
 https://martas333.github.io/Challenge3_GeneratePassword/
 
 **Image of website:**
+
 ![My website](assets/images/website.png)
